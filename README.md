@@ -1,6 +1,4 @@
 # oop-project
-# -soniyadawood08-atm-machine
-This is ATM machine with typescript, node.js and inquirer.
 
 <h1 align="center">Hi 👋, I'm SoniyaMuhammadDawood</h1>
 <h3 align="center">A beginner developer from Pakistan</h3>
